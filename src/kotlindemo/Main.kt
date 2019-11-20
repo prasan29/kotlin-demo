@@ -23,4 +23,7 @@ fun main() {
 
 
     println(name)
+
+    var person = Person()
+    person.printInfo()
 }
